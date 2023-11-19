@@ -15,3 +15,4 @@ ENV NODE_ENV production
 CMD ["bun", "src/index.tsx"]
 
 EXPOSE 3000
+
