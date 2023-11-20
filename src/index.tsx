@@ -5,7 +5,7 @@ const BaseHtml = () => {
 	return (
 		<html lang="en">
 			<body>
-				<h1>FUCKER</h1>
+
 			</body>
 		</html>
 	);
